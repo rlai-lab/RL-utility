@@ -1,6 +1,6 @@
 # Install Gym on Compute Canada
 
-This is a guide of installing [gym](https://github.com/openai/gym) on [Compute Canada](https://docs.computecanada.ca/wiki/Getting_started) (CC).
+This is a guide to install [gym](https://github.com/openai/gym) on [Compute Canada](https://docs.computecanada.ca/wiki/Getting_started) (CC).
 
 Except [Mujoco](http://www.mujoco.org/), other [environments](https://github.com/openai/gym/blob/master/docs/environments.md) (including Atari) in gym can be installed easily on CC. So next we show how to set Mujoco on CC, step by step.
 
