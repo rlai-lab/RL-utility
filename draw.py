@@ -3,6 +3,7 @@ import numpy as np
 
 
 '''
+Author: A. Rupam Mahmood (https://armahmood.github.io/)
 Make y-label horizontal
 '''
 plt.plot(np.random.randn(100))
@@ -13,6 +14,7 @@ plt.show()
 
 def avg_return_curve(x, y, stride, total_steps):
   '''
+  Author: A. Rupam Mahmood (https://armahmood.github.io/)
   Plot average return curves. Specifically, this function transforms termination 
   steps and episodic returns to average returns over equally-spaced intervals.
     param x: A list of list of termination steps for each episode. len(x) == total number of runs 
